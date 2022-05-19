@@ -14,10 +14,10 @@ Arab Gate is a key component of future multichain protocols/applications, acting
 
 **We built Arab Gate as our first product for these main reasons:**
 
-* The wallet is the core component **** of any blockchain.
+* The wallet is the core component \*\*\*\* of any blockchain.
 * We believe that a multi-chain wallet ecosystem is the core component of future multi-chain/cross-chain protocols.
-* &#x20;People use different protocols/dapps for the same need, but they usually stick with only one wallet. Hence, a multichain wallet engine can become the moat factor of our upcoming products.
-* A multi-chain wallet engine will facilitate the protocols/dapps to provide a better user experience and easier control of the product implementation process.&#x20;
+* People use different protocols/dapps for the same need, but they usually stick with only one wallet. Hence, a multichain wallet engine can become the moat factor of our upcoming products.
+* A multi-chain wallet engine will facilitate the protocols/dapps to provide a better user experience and easier control of the product implementation process.
 
 ### **Features**
 
@@ -162,7 +162,7 @@ Q1 2022:
 Q2 2022:
 
 * Add referral marketing to the Arab Gate wallet
-* Start developing Gate pay.&#x20;
+* Start developing Gate pay.
 * Start developing a web3 wallet
 * Add the first scaling solution for Ethereum and Bitcoin to the Arab Gate wallet
 * Research about Hala-AI
@@ -184,18 +184,16 @@ Q4 2022:
 
 **Initial Distribution**
 
-The initial distribution of ArabCoin tokens is as follows:
+The initial distribution of ArabCoin is as follows:
 
 * 33.6% for the Arab Network community and the Public Sale
-* 12.5% to team members
+* 12.5% team & advisors
 * 10% for marketing
-* 43.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation) by voting)
-
-
+* 10% Liquidity
+* 33.9% locked for the Community reserve fund (the Arab Network community manages the unlock (period & allocation by voting)
 
 | Phase       | Price (USD) | Token release schedule                                                                                          | Babylon Token airdrop |
 | ----------- | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
 | Trench      | 0.035       | 35% of the tokens will be released at TGE (Token generation event), and the rest will be vested 20% each month. | 30%                   |
 | MAS         | 0.05        | 40% of the tokens will be released at TGE, and the rest will be vested 25% each month.                          | 40%                   |
 | Public Sale | 0.07        | 50% of the tokens will be released at TGE, and the rest will be vested at 25% each month.                       | 50%                   |
-
